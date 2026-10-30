@@ -1,6 +1,6 @@
 # Roulette
 
-Built without any assistance of AI. Every line is coded by myself.
+Built without any assistance of AI (Normal Roulette Version - not the Copilot one). Every line is coded by myself.
 
 ---
 
