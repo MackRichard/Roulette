@@ -2,6 +2,8 @@
 
 Built without any assistance of AI (Normal Roulette Version - not the Copilot one). Every line is coded by myself.
 
+The main version is played in the Terminal. The Copilot Version opens an interface controlled by clicking your mouse.
+
 ---
 
 ## 📋 Table of Contents
@@ -53,7 +55,7 @@ Required libraries:
 
 ---
 
-## 🎮 Controls
+## 🎮 Controls (Not for the Copilot Version)
 
   - Play again / cancel = [ENTER]
 
